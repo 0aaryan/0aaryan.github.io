@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown Syntax on Aryan Arora</title>
-    <link>https://0aaryan.github.io/aryan.me/blogs/markdown-syntax/</link>
+    <link>https://0aaryan.github.io/blogs/markdown-syntax/</link>
     <description>Recent content in Markdown Syntax on Aryan Arora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://0aaryan.github.io/aryan.me/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://0aaryan.github.io/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

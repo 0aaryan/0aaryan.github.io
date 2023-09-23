@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Gallery on Aryan Arora</title>
-    <link>https://0aaryan.github.io/aryan.me/gallery/</link>
+    <link>https://0aaryan.github.io/gallery/</link>
     <description>Recent content in Image Gallery on Aryan Arora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate><atom:link href="https://0aaryan.github.io/aryan.me/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate><atom:link href="https://0aaryan.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
