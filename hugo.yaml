@@ -1,4 +1,4 @@
-baseURL: "https://0aaryan.github.io/"
+baseURL: "//0aaryan.github.io"
 languageCode: "en-us"
 title: "Aryan Arora"
 theme: hugo-profile
