@@ -1,2 +1,0 @@
-# aryan.me
-portfolio site
