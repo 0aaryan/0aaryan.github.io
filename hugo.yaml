@@ -56,7 +56,7 @@ params:
   title: "Aryan's portfolio"
   description: "Welcome to my corner of internet"
   # staticPath: "public"  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/images/logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -101,7 +101,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    brandLogo: "/images/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Aryan Arora" # Brand name for the brand | default is the title variable
     disableSearch: false
@@ -138,8 +138,8 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/am-aryan-arora/
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /images/logo.png
+          url: "https://0aaryan.github.io/"
 
   # About
   about:
