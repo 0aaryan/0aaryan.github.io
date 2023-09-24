@@ -301,6 +301,23 @@ params:
         url: https://github.com/0aaryan/freestyle
       - icon: fa fa-external-link-alt
         url: http://freeyourstyle.pythonanywhere.com
+    - title: TerraShield
+      badges:
+      - chrome-extension
+      - machine learning
+      - python
+      content: A serverless extension to detect phishing links. Created for the VITISH-2023
+        hackathon.
+      featured:
+        link: https://jovial-lolly-5b5f24.netlify.app/#about
+        name: Extension Demo
+      image: 
+        https://user-images.githubusercontent.com/70922932/227709646-0695594a-7673-47dc-8ad5-16f7b35661f3.png
+      links:
+      - icon: fab fa-github
+        url: https://github.com/your-github-repo-url
+      - icon: fa fa-external-link-alt
+        url: https://jovial-lolly-5b5f24.netlify.app/#about
   contact:
     enable: true
     # title: "Custom Name"
