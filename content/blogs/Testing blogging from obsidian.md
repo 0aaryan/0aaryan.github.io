@@ -1,5 +1,5 @@
 ---
-title: Placeholder Text
+title: Testing blogging from obsidian
 date: 2023-09-26
 draft: false
 github_link: stuckaryan.tech
