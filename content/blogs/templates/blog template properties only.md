@@ -1,27 +1,17 @@
 ---
-
-title: "Markdown Syntax"
-
-date: 2021-04-03T23:29:21+05:30
-
+title: Markdown Syntax
+date: 2023-09-26
 draft: false
-
-github_link: "https://github.com/gurusabarish/hugo-profile"
-
-author: "Gurusabarish"
-
+github_link: https://github.com/gurusabarish/hugo-profile
+author: Aryan
 tags:
-
-- Markdown syntax
-
-- Sample
-
-- example
-
-image: /images/post.jpg
-
+  - Markdown
+  - syntax
+  - Sample
+  - example
+image: content/blogs/images/post.jpg
 description: ""
-
 toc:
-
 ---
+
+
