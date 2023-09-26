@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "e20f4c67f2e39471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "this is new note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "594f1a5732af471f",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trying osidian guthub.md",
+                "file": "this is new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trying osidian guthub.md",
+                "file": "this is new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trying osidian guthub.md"
+                "file": "this is new note.md"
               }
             }
           }
@@ -179,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9fbf258fdab6200",
+  "active": "e20f4c67f2e39471",
   "lastOpenFiles": [
-    "My first blog.md",
     "trying osidian guthub.md",
+    "this is new note.md",
+    "My first blog.md",
     "hey.md",
     "markdown-syntax.md",
     "placeholder-text.md"
