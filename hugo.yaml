@@ -336,6 +336,28 @@ params:
         url: https://github.com/0aaryan/Reinforcement_learning_FlappyBird
       - icon: fa fa-external-link-alt
         url: https://github.com/0aaryan/Reinforcement_learning_FlappyBird
+    - title: Social Media Transcripts Extractor
+      badges:
+      - Python
+      - YouTube
+      - Instagram
+      - Transcripts
+      content: The Social Media Transcripts Extractor is a Python project that allows
+        you to fetch and extract transcripts from social media platforms, specifically
+        YouTube and Instagram. With this tool, you can retrieve video transcripts
+        from YouTube channels or individual video links. While the project currently
+        supports YouTube, it also has a placeholder for Instagram functionality, which
+        can be extended in the future.
+      featured:
+        link: https://github.com/0aaryan/social-media-transcripts
+        name: Repository
+      image: 
+        https://github.com/0aaryan/social-media-transcripts/assets/73797587/7cbb213d-ad99-491e-856b-7eb552ae444d
+      links:
+      - icon: fab fa-github
+        url: https://github.com/0aaryan/social-media-transcripts
+      - icon: fa fa-external-link-alt
+        url: https://github.com/0aaryan/social-media-transcripts
   contact:
     enable: true
     # title: "Custom Name"
