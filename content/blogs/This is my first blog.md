@@ -1,5 +1,5 @@
 ---
-title: Markdown Syntax
+title: BLOGS COMMING SOON
 date: 2023-09-26
 draft: false
 github_link: github.com/0aaryan
@@ -17,13 +17,5 @@ toc:
 
 
 
-![[Pasted image 20230926223232.png]]
-
-# Hey this is my first blog from obsidian
-
-```python
-def hey():
-	print("hello world")
-
-```
+# BLOGS COMMING SOON
 
