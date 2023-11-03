@@ -266,12 +266,16 @@ params:
     items:
     - title: IBM AI ANALYST
       content: I completed IBM AI Analyst Professional Certificate.
-      url: https://drive.google.com/file/d/1o8W-g8WjEdjlRCcffvK7peoShKHnzbrH/view?usp=sharing
-      image: https://images.credly.com/images/7d8aab55-1110-4242-910e-93a649a319cf/twitter_thumb_201604_image.png
+      url: 
+        https://drive.google.com/file/d/1o8W-g8WjEdjlRCcffvK7peoShKHnzbrH/view?usp=sharing
+      image: 
+        https://images.credly.com/images/7d8aab55-1110-4242-910e-93a649a319cf/twitter_thumb_201604_image.png
     - title: CyberSpectrum-2023 expo
       content: runner-up position at CyberSpectrum-2023 expo
-      url: https://www.linkedin.com/posts/am-aryan-arora_cyberspectrum2023-vit-smartbot-activity-7052655382866890752-v_RZ?utm_source=share&utm_medium=member_desktop
-      image: https://media.licdn.com/dms/image/D5622AQGW2iKVI2t5cA/feedshare-shrink_1280/0/1681484073035?e=1701907200&v=beta&t=P7Ms9N5umbBC8qhdKZY3zNxJ_9a6EFzlLhn84nhrWBs
+      url: 
+        https://www.linkedin.com/posts/am-aryan-arora_cyberspectrum2023-vit-smartbot-activity-7052655382866890752-v_RZ?utm_source=share&utm_medium=member_desktop
+      image: 
+        https://media.licdn.com/dms/image/D5622AQGW2iKVI2t5cA/feedshare-shrink_1280/0/1681484073035?e=1701907200&v=beta&t=P7Ms9N5umbBC8qhdKZY3zNxJ_9a6EFzlLhn84nhrWBs
 
   # projects
   projects:
