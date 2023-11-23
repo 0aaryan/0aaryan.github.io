@@ -18,7 +18,7 @@ toc: true
 
 ## Introduction
 
-Welcome to the first part of our "How to Think Like a Computer Science Student" series! Today, we'll embark on an exciting journey of creating a professional portfolio site using Hugo, a powerful static site generator, and automating the deployment process with GitHub Actions.
+Welcome to the first part of our "How to Think Like a Computer Science Student" series! Today, we'll learn how to create a professional portfolio site using Hugo, a powerful static site generator, and automating the deployment process with GitHub Actions.
 
 ### Why Hugo?
 ![Hugo Logo](/images/blog-images/1/hugo_logo.png)
