@@ -14,7 +14,7 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
+disqusShortname: stuck-aryan
 googleAnalytics: G-H0WN4LD4CN
 
 markup:
