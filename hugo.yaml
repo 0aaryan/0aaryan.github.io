@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: Resume
-      url: https://drive.google.com/file/d/1eArD5Qxe2H3VS2d1BzdhRcRFcaNxLgEH/view
+      url: resume.pdf
       download: true
       newPage: true
     socialLinks:
