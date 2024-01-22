@@ -266,15 +266,15 @@ params:
     items:
     - title: IBM AI ANALYST
       content: I completed IBM AI Analyst Professional Certificate.
-      url:
+      url: 
         https://drive.google.com/file/d/1o8W-g8WjEdjlRCcffvK7peoShKHnzbrH/view?usp=sharing
-      image:
+      image: 
         https://images.credly.com/images/7d8aab55-1110-4242-910e-93a649a319cf/twitter_thumb_201604_image.png
     - title: CyberSpectrum-2023 expo
       content: runner-up position at CyberSpectrum-2023 expo
-      url:
+      url: 
         https://www.linkedin.com/posts/am-aryan-arora_cyberspectrum2023-vit-smartbot-activity-7052655382866890752-v_RZ?utm_source=share&utm_medium=member_desktop
-      image:
+      image: 
         https://media.licdn.com/dms/image/D5622AQGW2iKVI2t5cA/feedshare-shrink_1280/0/1681484073035?e=1701907200&v=beta&t=P7Ms9N5umbBC8qhdKZY3zNxJ_9a6EFzlLhn84nhrWBs
 
   # projects
@@ -291,7 +291,7 @@ params:
       featured:
         link: https://github.com/0aaryan/create.ai
         name: Repository
-      image:
+      image: 
         https://github.com/0aaryan/create.ai/assets/73797587/09656210-6baa-48da-bb77-9c311670ebaa
       links:
       - icon: fab fa-github
@@ -307,7 +307,7 @@ params:
       featured:
         link: http://freeyourstyle.pythonanywhere.com
         name: Demo
-      image:
+      image: 
         https://github.com/0aaryan/freestyle/assets/73797587/1e0b9753-3f68-46f2-b8ba-ba78454aec1f
       links:
       - icon: fab fa-github
@@ -327,7 +327,7 @@ params:
       featured:
         link: https://github.com/0aaryan/healthMate
         name: Repository
-      image:
+      image: 
         https://user-images.githubusercontent.com/73797587/284049847-72958a67-68d5-40f3-81e4-5090a65db1ba.png
       links:
       - icon: fab fa-github
@@ -344,7 +344,7 @@ params:
       featured:
         link: https://jovial-lolly-5b5f24.netlify.app/#about
         name: Extension Demo
-      image:
+      image: 
         https://user-images.githubusercontent.com/70922932/227709646-0695594a-7673-47dc-8ad5-16f7b35661f3.png
       links:
       - icon: fab fa-github
@@ -362,7 +362,7 @@ params:
       featured:
         link: https://github.com/0aaryan/Reinforcement_learning_FlappyBird
         name: Repository
-      image:
+      image: 
         https://github.com/0aaryan/Reinforcement_learning_FlappyBird/assets/73797587/bc773056-e00d-44a3-8196-f0ce099d9949
       links:
       - icon: fab fa-github
@@ -384,7 +384,7 @@ params:
       featured:
         link: https://github.com/0aaryan/social-media-transcripts
         name: Repository
-      image:
+      image: 
         https://github.com/0aaryan/social-media-transcripts/assets/73797587/7cbb213d-ad99-491e-856b-7eb552ae444d
       links:
       - icon: fab fa-github
