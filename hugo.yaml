@@ -1,4 +1,4 @@
-baseURL: //0aaryan.github.io
+baseURL: /
 languageCode: en-us
 title: Aryan Arora
 theme: hugo-profile
@@ -164,72 +164,73 @@ params:
 
   # Experience
   experience:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-    - job: Senior Software Developer
-      company: Facebook
-      companyUrl: https://example.com
-      date: Jan 2022 - present
+    - job: AI Intern
+      company: SOS 42
+      companyUrl: https://getsos42.com/
+      date: Jan 2024 - Mar 2024
       featuredLink:
-        enable: true
+        enable: false
         name: View the project
         url: https://example.com
-      content: I am currently working as a software developer at [example org.](https://example.com)
-        in San Francisco, CA. I am currently working on a project that will be used
-        to help people find the best way to get around the city.
-
-    - job: Software Developer
-      company: Amazon
-      companyUrl: https://example.com
-      date: Sep 2020 - Dec 2021
-      featuredLink:
-        enable: true
-        url: https://example.com
-      info:
-        enable: true
-        content: I worked as a software developer for more than one year in Amazon.
       content: |
-        I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        - Developed personalized AI agents using LLMs (OpenAI, Anthropic, Hugging Face).
+        - Implemented Retrieval-Augmented Generation (RAG) with tool integrations to enhance agent performance.
+        - Built dashboards and communication infrastructure (DRF APIs, Django Channels WebSockets) for agent management and prompt engineering.
 
-        - Lead backend developer for a product.
-        - Created a frontend design for a product.
+    # - job: Software Developer
+    #   company: Amazon
+    #   companyUrl: https://example.com
+    #   date: Sep 2020 - Dec 2021
+    #   featuredLink:
+    #     enable: true
+    #     url: https://example.com
+    #   info:
+    #     enable: true
+    #     content: I worked as a software developer for more than one year in Amazon.
+    #   content: |
+    #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-    - job: Junior Software Developer
-      company: Apple
-      companyUrl: https://example.com
-      date: Jan 2020 - Aug 2020
-      info:
-        enable: false
-      featuredLink:
-        enable: true
-        url: https://example.com
-      content: |
-        I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+    #     - Lead backend developer for a product.
+    #     - Created a frontend design for a product.
 
-        - Lead backend developer for a product.
-        - Created a frontend design for a product.
+    # - job: Junior Software Developer
+    #   company: Apple
+    #   companyUrl: https://example.com
+    #   date: Jan 2020 - Aug 2020
+    #   info:
+    #     enable: false
+    #   featuredLink:
+    #     enable: true
+    #     url: https://example.com
+    #   content: |
+    #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-    - job: UI/UX Designer
-      company: Netflix
-      companyUrl: https://example.com
-      date: June 2017 - Nov 2019
-      featuredLink:
-        enable: true
-        url: https://example.com
-      content: |
-        I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+    #     - Lead backend developer for a product.
+    #     - Created a frontend design for a product.
 
-        - Lead backend developer for a product.
-        - Created a frontend design for a product.
+    # - job: UI/UX Designer
+    #   company: Netflix
+    #   companyUrl: https://example.com
+    #   date: June 2017 - Nov 2019
+    #   featuredLink:
+    #     enable: true
+    #     url: https://example.com
+    #   content: |
+    #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-    - job: Product Designer
-      company: Google
-      companyUrl: https://example.com
-      date: Feb 2016 - Mar 2017
-      content: I am currently working as a software developer at [example org.](https://example.com)
-        in San Francisco, CA. I am currently working on a project that will be used
-        to help people find the best way to get around the city.
+    #     - Lead backend developer for a product.
+    #     - Created a frontend design for a product.
+
+    # - job: Product Designer
+    #   company: Google
+    #   companyUrl: https://example.com
+    #   date: Feb 2016 - Mar 2017
+    #   content: I am currently working as a software developer at [example org.](https://example.com)
+    #     in San Francisco, CA. I am currently working on a project that will be used
+    #     to help people find the best way to get around the city.
 
   # Education
   education:
@@ -266,15 +267,15 @@ params:
     items:
     - title: IBM AI ANALYST
       content: I completed IBM AI Analyst Professional Certificate.
-      url: 
+      url:
         https://drive.google.com/file/d/1o8W-g8WjEdjlRCcffvK7peoShKHnzbrH/view?usp=sharing
-      image: 
+      image:
         https://images.credly.com/images/7d8aab55-1110-4242-910e-93a649a319cf/twitter_thumb_201604_image.png
     - title: CyberSpectrum-2023 expo
       content: runner-up position at CyberSpectrum-2023 expo
-      url: 
+      url:
         https://www.linkedin.com/posts/am-aryan-arora_cyberspectrum2023-vit-smartbot-activity-7052655382866890752-v_RZ?utm_source=share&utm_medium=member_desktop
-      image: 
+      image:
         https://media.licdn.com/dms/image/D5622AQGW2iKVI2t5cA/feedshare-shrink_1280/0/1681484073035?e=1701907200&v=beta&t=P7Ms9N5umbBC8qhdKZY3zNxJ_9a6EFzlLhn84nhrWBs
 
   # projects
@@ -291,7 +292,7 @@ params:
       featured:
         link: https://github.com/0aaryan/create.ai
         name: Repository
-      image: 
+      image:
         https://github.com/0aaryan/create.ai/assets/73797587/09656210-6baa-48da-bb77-9c311670ebaa
       links:
       - icon: fab fa-github
@@ -307,7 +308,7 @@ params:
       featured:
         link: http://freeyourstyle.pythonanywhere.com
         name: Demo
-      image: 
+      image:
         https://github.com/0aaryan/freestyle/assets/73797587/1e0b9753-3f68-46f2-b8ba-ba78454aec1f
       links:
       - icon: fab fa-github
@@ -327,7 +328,7 @@ params:
       featured:
         link: https://github.com/0aaryan/healthMate
         name: Repository
-      image: 
+      image:
         https://user-images.githubusercontent.com/73797587/284049847-72958a67-68d5-40f3-81e4-5090a65db1ba.png
       links:
       - icon: fab fa-github
@@ -344,7 +345,7 @@ params:
       featured:
         link: https://jovial-lolly-5b5f24.netlify.app/#about
         name: Extension Demo
-      image: 
+      image:
         https://user-images.githubusercontent.com/70922932/227709646-0695594a-7673-47dc-8ad5-16f7b35661f3.png
       links:
       - icon: fab fa-github
@@ -362,7 +363,7 @@ params:
       featured:
         link: https://github.com/0aaryan/Reinforcement_learning_FlappyBird
         name: Repository
-      image: 
+      image:
         https://github.com/0aaryan/Reinforcement_learning_FlappyBird/assets/73797587/bc773056-e00d-44a3-8196-f0ce099d9949
       links:
       - icon: fab fa-github
@@ -384,7 +385,7 @@ params:
       featured:
         link: https://github.com/0aaryan/social-media-transcripts
         name: Repository
-      image: 
+      image:
         https://github.com/0aaryan/social-media-transcripts/assets/73797587/7cbb213d-ad99-491e-856b-7eb552ae444d
       links:
       - icon: fab fa-github

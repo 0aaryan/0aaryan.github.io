@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image Gallery on Aryan Arora</title>
-    <link>//0aaryan.github.io/gallery/</link>
-    <description>Recent content in Image Gallery on Aryan Arora</description>
+    <title>Aryan Arora</title>
+    <link>//localhost:1313/gallery/</link>
+    <description>Recent content on Aryan Arora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
-    <atom:link href="//0aaryan.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
