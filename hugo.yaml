@@ -163,22 +163,37 @@ params:
       - Content creation
 
   # Experience
-  experience:
-    enable: true
-    # title: "Custom Name"
-    items:
-    - job: AI Intern
-      company: SOS 42
-      companyUrl: https://getsos42.com/
-      date: Jan 2024 - Mar 2024
-      featuredLink:
-        enable: false
-        name: View the project
-        url: https://example.com
-      content: |
-        - Developed personalized AI agents using LLMs (OpenAI, Anthropic, Hugging Face).
-        - Implemented Retrieval-Augmented Generation (RAG) with tool integrations to enhance agent performance.
-        - Built dashboards and communication infrastructure (DRF APIs, Django Channels WebSockets) for agent management and prompt engineering.
+# Experience
+experience:
+  enable: true
+  # title: "Custom Name"
+  items:
+  - job: Junior Data Scientist
+    company: MariApps
+    companyUrl: https://www.mariapps.com/
+    date: Aug 2024 - Present
+    featuredLink:
+      enable: false
+      name: View the project
+      url: https://example.com
+    content: |
+      - Developed AI workflows for automating document updates in QDMS for major shipping clients.
+      - Built offline AI systems using LLaMA 3.2 and voice-to-text functionality with Whisper.
+      - Managed APIs (FastAPI, Pydantic) and handled deployments with Azure app services and CI/CD pipelines.
+  
+  - job: AI Intern
+    company: SOS 42
+    companyUrl: https://getsos42.com/
+    date: Jan 2024 - Mar 2024
+    featuredLink:
+      enable: false
+      name: View the project
+      url: https://example.com
+    content: |
+      - Developed personalized AI agents using LLMs (OpenAI, Anthropic, Hugging Face).
+      - Implemented Retrieval-Augmented Generation (RAG) with tool integrations to enhance agent performance.
+      - Built dashboards and communication infrastructure (DRF APIs, Django Channels WebSockets) for agent management and prompt engineering.
+
 
     # - job: Software Developer
     #   company: Amazon
