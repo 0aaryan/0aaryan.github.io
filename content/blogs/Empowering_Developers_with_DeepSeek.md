@@ -1,18 +1,19 @@
 ---
-title: Empowering Developers with DeepSeek: The Open-Source Revolution in AI
-date: 2025-02-03
+title: "Empowering Developers with DeepSeek: The Open-Source Revolution in AI"
+date: "2025-02-03"
 draft: false
-author: Aryan Arora
+author: "Aryan Arora"
 tags:
   - AI
   - Open-Source
   - DeepSeek
   - Developers
   - Technology
-image: https://example.com/images/deepseek_cover.png
-description: Explore how DeepSeek's open-source AI models empower developers to innovate without the constraints of proprietary systems, ensuring data privacy and fostering community-driven advancements.
+image: "https://example.com/images/deepseek_cover.png"
+description: "Explore how DeepSeek's open-source AI models empower developers to innovate without the constraints of proprietary systems, ensuring data privacy and fostering community-driven advancements."
 toc: true
 ---
+
 
 # Empowering Developers with DeepSeek: The Open-Source Revolution in AI
 
