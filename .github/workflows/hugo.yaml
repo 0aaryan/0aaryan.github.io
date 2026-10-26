@@ -47,6 +47,20 @@ jobs:
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: portfolio/package-lock.json
+
+      - name: Build portfolio (Vite) and place it at the site root
+        working-directory: portfolio
+        run: |
+          npm ci
+          npm run build
+          cp -r dist/. ../public/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

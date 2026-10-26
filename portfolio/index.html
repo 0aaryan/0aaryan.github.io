@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Aryan Arora — Solutions Architect</title>
+  <meta name="description" content="Aryan Arora is a solutions architect in Kochi who designs and builds AI systems: agents, search and the tools around them.">
+  <meta name="theme-color" content="#151311">
+  <meta property="og:title" content="Aryan Arora — Solutions Architect">
+  <meta property="og:description" content="Notes and projects from a solutions architect who builds AI systems.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/models/avatar.glb" as="fetch" crossorigin>
+  <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <div class="loader" aria-hidden="true">
+    <div class="loader__name">Aryan Arora</div>
+    <div class="loader__count"><span data-count>000</span></div>
+    <div class="loader__bar"><i></i></div>
+  </div>
+
+  <canvas class="stage" aria-hidden="true"></canvas>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="cursor" aria-hidden="true"><i></i></div>
+
+  <header class="nav">
+    <a class="nav__mark" href="#top" data-magnetic>AA<span>/</span></a>
+    <nav aria-label="Primary">
+      <a href="#work">Work</a>
+      <a href="#independent">Independent</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact" class="nav__cta" data-magnetic>Contact</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <div class="hero__meta">
+        <p class="label" data-hero-line><span class="dot"></span>Solutions Architect</p>
+        <p class="label hero__clock" data-hero-line>Kochi, IN · <time data-clock>--:--</time></p>
+      </div>
+      <p class="hero__intro" data-hero-line>I build AI systems that ship to production.</p>
+      <h1 class="hero__name" aria-label="Aryan Arora"><span data-split>Aryan</span><span data-split>Arora</span></h1>
+      <div class="hero__foot">
+        <p class="label hero__scroll" data-hero-line>Scroll <span class="hero__scroll-line"></span></p>
+      </div>
+    </section>
+
+    <section class="manifesto" aria-label="About">
+      <p class="manifesto__text" data-words>I’m a solutions architect who still enjoys writing the code. Most of my days go into working out how <em>agents and search</em> can fit into the way maritime teams already work, and then building that carefully. What I like best is when something is still <em>quietly working</em> months later.</p>
+    </section>
+
+    <section class="work" id="work">
+      <div class="section-head">
+        <h2 class="h2" data-reveal>Some of the work <em>I’ve enjoyed.</em></h2>
+      </div>
+      <ol class="work__list" data-work></ol>
+    </section>
+
+    <section class="independent" id="independent">
+      <div class="section-head">
+        <h2 class="h2" data-reveal>Things I build <em>for fun.</em></h2>
+      </div>
+      <div class="bento" data-independent></div>
+    </section>
+
+    <section class="experience" id="experience">
+      <div class="experience__aside">
+        <h2 class="h2" data-reveal>A little <em>background.</em></h2>
+      </div>
+      <div class="experience__list" data-experience></div>
+      <div class="caps" data-caps></div>
+    </section>
+
+    <section class="contact" id="contact">
+      <h2 class="contact__title"><span data-split-lines>Working on something?</span><span data-split-lines><em>Say hello.</em></span></h2>
+      <a class="contact__mail" data-mail data-magnetic href="#"><span data-mail-text></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
+      <ul class="contact__links" data-links></ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>© <span data-year></span> Aryan Arora</p>
+    <a href="#top" data-magnetic>Back to top ↑</a>
+  </footer>
+
+  <dialog class="case" aria-labelledby="case-title">
+    <div class="case__inner" data-lenis-prevent>
+      <div class="case__bar">
+        <p class="label" data-case-count></p>
+        <button class="case__close" aria-label="Close case study" data-magnetic>Close <span aria-hidden="true">×</span></button>
+      </div>
+      <div class="case__body" data-case></div>
+    </div>
+  </dialog>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
